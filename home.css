@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+
+.navbar{
+   
+    height: 50px;
+    
+}
+
+.nav-item{
+    
+    
+   font-size:20px;
+   margin:500px;
+   font-weight:bolder;
+}
+
+
+
+.nav-item a:hover{
+    background-color: teal;
+    color:black !important;
+
+}
+#check{
+    font-size: 50px;
+    background-color: rgba(0, 128, 128, 0.219);
+    padding:10px;
+    text-align: center;
+    margin: 250px;
+    padding:60px;
+}
